@@ -20,7 +20,7 @@ print('     {    About myself
                               }   ') 
 print('                                  {
                        my name
-    def my name : Denevnta Afriliyan Ferly Khurayra Shishigami X
+    def my name : DRUBOTZ X
                                                                         }
 ```
 <!--
